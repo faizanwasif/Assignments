@@ -1,0 +1,4 @@
+def calculateArea(width,length): 
+    area = length * width
+    
+    return area
